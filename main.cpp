@@ -464,10 +464,7 @@ hotel h;
 
 cout<<"\n\t\t\t*****************************";
 cout<<"\n\t\t\t* HOTEL MANAGEMENT PROJECT  *";
-cout<<"\n\t\t\t*****************************";
-cout<<"\n\n\t\tDeveloped By:";
-cout<<"\t\t Nemonet";
-cout<<"\n\t\t\t\t The Young Programmer (TYP)";
+
 cout<<"\n\n\n\n\n\n\n\t\t\t\t\tPress any key to continue....!!";
 
 getch();
